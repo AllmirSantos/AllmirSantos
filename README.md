@@ -19,7 +19,6 @@ Desenvolvedor WEB / MOBILE
 
 
 
-  ![Snake animation](https://github.com/AllmirSantos/AllmirSantos/blob/output/github-contribution-grid-snake.svg)
 
   ## <h1> Contato </h1>
  
